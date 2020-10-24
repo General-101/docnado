@@ -1186,7 +1186,7 @@ def main():
             index_html = """ <!DOCTYPE html>
                 <html>
                     <head>
-                        <meta http-equiv="refresh" content="0; url=./w/">
+                        <meta http-equiv="refresh" content="0; url=./w/home.html">
                     </head>
                 <body>
                 </body>
